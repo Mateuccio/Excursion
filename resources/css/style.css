@@ -30,3 +30,10 @@ color: gray;
     color: aquamarine;
 }
 
+/* FOOTER */
+
+.footer__copyright {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
